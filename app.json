@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "Doggy",
+  "description": "Doggy",
   "keywords": [
     "vmess or vles"
   ],
@@ -23,7 +23,7 @@
    
   },
   "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "repository": "https://github.com/coldduck13/Dogyy",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
